@@ -3,9 +3,9 @@
 
 ## Design ideas
 
-首先看一下我们的计算器的外观：
+First look at what our calculator looks like:
 
-![image-20230813211955877](C:\Users\FredZhu\Desktop\image-20230813211955877.png)
+![calculator](https://github.com/shubonnsei/Calculator/blob/main/calculaorJS.png)
 
 
 Based on this, the following is the design idea, why we should write JS like this.
