@@ -47,16 +47,16 @@ Based on this, the following is the design idea, why we should write JS like thi
 6. ```
    handleMath
    
-   - 如果有待处理的运算，调用 `flushOperation` 执行
-   - 设置 `previousOperator` 为当前符号
-   ```
+   - If there are pending operations, call `flushOperation` to execute
+    - set `previousOperator` to the current symbol
+    ```
 
    
 
 7. ```
-   flushOperation
+    flushOperation
    
-   - 根据 `previousOperator` 执行相应的数学运算
+    - Perform the corresponding math operation according to the `previousOperator`
    ```
 
    
