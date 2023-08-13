@@ -61,5 +61,5 @@ Based on this, the following is the design idea, why we should write JS like thi
 
    
 
-8. 结束
+8.End
 
