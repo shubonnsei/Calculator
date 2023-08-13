@@ -5,7 +5,7 @@
 
 首先看一下我们的计算器的外观：
 
-![image-20230813211955877](C:\Users\FredZhu\AppData\Roaming\Typora\typora-user-images\image-20230813211955877.png)
+![image-20230813211955877](C:\Users\FredZhu\Desktop\image-20230813211955877.png)
 
 
 Based on this, the following is the design idea, why we should write JS like this.
